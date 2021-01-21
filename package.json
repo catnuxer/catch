@@ -21,7 +21,7 @@
     "@emotion/styled": "^10.0.27",
     "hoist-non-react-statics": "^3.3.2",
     "i18next": "^19.4.4",
-    "immer": "^6.0.9",
+    "immer": "^8.0.1",
     "invariant": "^2.2.4",
     "lodash": "^4.17.15",
     "moment": "^2.26.0",
